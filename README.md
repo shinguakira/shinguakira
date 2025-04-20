@@ -1,6 +1,6 @@
 ### Hi, I'm ShinguAkira 👋
 
-I'm Shingu Akira, a passionate Software Engineer with expertise in modern web technologies. I focus on both Front-end and Back-end development with a primary interest in JavaScript, TypeScript, and React. I spend most of my time coding and improving my skills, building exciting projects, and sharing my knowledge through tutorials.
+I'm Shingu Akira, a passionate Software Engineer with expertise in modern web technologies. I focus on both Front-end and Back-end development with a primary interest in JavaScript, TypeScript, and React. I spend most of my time coding and improving my skills, building exciting projects, and sharing my knowledge through portfolio and articles.
 
 #### Top Technologies
 
