@@ -1,3 +1,6 @@
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinguakira)
+
 - 👋 Hi, I’m @shinguakira
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
