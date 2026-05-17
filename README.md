@@ -1,9 +1,11 @@
 ### Hi, I'm ShinguAkira
 
 # Portfolio site link
-[https://about-akira-shingu-react.vercel.app/](https://my-vscode-portfolio-snowy.vercel.app/)
+[VSCode style portfolio](https://my-vscode-portfolio-snowy.vercel.app/)
 
-I'm Shingu Akira, a passionate Software Engineer with expertise in modern web technologies. I focus on both Front-end and Back-end development
+![VSCode Portfolio](vscode-portfolio.png)
+
+a passionate Software Engineer with expertise in modern web technologies. I focus on both Front-end and Back-end development
 I spend most of my time coding and improving my skills, building exciting projects, and sharing my knowledge through portfolio and articles.
 
 #### Top Technologies
@@ -14,6 +16,10 @@ I spend most of my time coding and improving my skills, building exciting projec
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
+#### Curious Tech
+
+[![Rust Badge](https://img.shields.io/badge/-Rust-CE422B?style=for-the-badge&labelColor=black&logo=rust&logoColor=CE422B)](#)
+[![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8)](#)
 
 <br/>
 
