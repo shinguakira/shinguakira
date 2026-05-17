@@ -20,9 +20,9 @@ I'm Shingu Akira, a passionate Software Engineer with expertise in modern web te
 
 <div align="center">
 
-<img alt="ShinguAkira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShinguAkira&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img alt="ShinguAkira's GitHub streak" src="https://streak-stats.demolab.com/?user=ShinguAkira&theme=transparent"/>
 
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinguAkira&layout=compact&langs_count=8&cache_seconds=1800"/>
+<img alt="Top langs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShinguAkira&theme=transparent"/>
 
 </div>
 
