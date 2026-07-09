@@ -3,7 +3,7 @@
 # Portfolio site link
 [VSCode style portfolio](https://my-vscode-portfolio-snowy.vercel.app/)
 
-![VSCode Portfolio](vscode-portfolio.png)
+![VSCode Portfolio](./vscode-portfolio.png)
 
 a passionate Software Engineer with expertise in modern web technologies. I focus on both Front-end and Back-end development
 I spend most of my time coding and improving my skills, building exciting projects, and sharing my knowledge through portfolio and articles.
